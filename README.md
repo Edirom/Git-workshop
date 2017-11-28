@@ -8,12 +8,10 @@ Ich bin gespannt auf merging, pull-requests etc.
 Eintrag von Sebastian: lorem ipsum
 
 Eintrag von Daniel
-
 Dass das Desktop hier nicht startet,
 das hätte ich heut nicht erwartet!
 
 Hallo Welt
-
 
 Andreas probiert's auch aus
 
@@ -23,3 +21,10 @@ Andreas probiert's auch aus
 
 * **Eine** Änderung
 * ...noch eine
+
+## Hallo Welt
+
+Andreas probiert's auch aus
+
+Noch ein Eintrag
+
