@@ -11,6 +11,8 @@ Eintrag von Daniel
 Dass das Desktop hier nicht startet,
 das hätte ich heut nicht erwartet!
 
+Noch ein Eintrag
+
 Hallo Welt
 
 Andreas probiert's auch aus
